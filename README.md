@@ -28,6 +28,6 @@ Me desenvolvendo na área de de Data Science.
 
 <br>
 
-<b> ⚡ Repositório Principal</b>:
+<b> Projetos </b>:
 
 [![Felipe github stats](https://github-readme-stats.vercel.app/api/pin/?username=escobar-felipe&repo=Projetos&theme=dark)](https://github.com/escobar-felipe/Projetos)
