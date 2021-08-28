@@ -7,7 +7,6 @@ Cursando Análise e Desenvolvimento de Sistemas na
 ULBRA - Universidade Luterana do Brasil.<br>
 Me desenvolvendo na área de de Data Science.
 
-
 # Linguagens e Ferramentas:
 
  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
